@@ -1,2 +1,2 @@
 # Examples
-How to integrate with JETT24 Api
+How to integrate with PreflightApi
