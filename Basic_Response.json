@@ -1,0 +1,32 @@
+{
+  "result": [
+    [
+      {
+        "fields": [
+          "Framed PDF",
+          "Fixed PDF",
+          "Preview",
+          "File size",
+          "Preflight effect",
+          "Preflight status",
+          "Page",
+          "Credits cost"
+        ]
+      },
+      {
+        "data": [
+          [
+            "https:\\\/api.preflightapi.com\\\/files\\\/preview\\\/a3ec3d27dd57eafcc4f4526affd18648.pdf",
+            "https:\\\/api.preflightapi.com\\\/files\\\/temp\\\/a3937db2957159723fc656dabb00e4ad.pdf",
+            "https:\\\/api.preflightapi.com\\\/files\\\/images\\\/a3ec3d27f4526affd18648dd57eafcc4.jpg",
+            "223512",
+            "Object converted to CMYK;",
+            "Warnings",
+            "1",
+            "1,02131576538086"
+          ]
+        ]
+      }
+    ]
+  ]
+}
