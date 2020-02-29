@@ -30,13 +30,13 @@ if (is_uploaded_file($_FILES['afile']['tmp_name'])) {
             $add = 0;
         }
         $ch = curl_init();
-        curl_setopt($ch, CURLOPT_URL, 'http://185.170.227.42:3131/api/rest/Service/APreflight2/' . $_POST['height'] . 'x' . $_POST['width'] . '/' . $add . '/' . $_POST['pages'] . '/' . $_POST['bleeds'] . '/' . $_POST['beast'] . '/' . $_POST['lang'] . '/');
+        curl_setopt($ch, CURLOPT_URL, 'http://preflightapi.net:3131/api/rest/Service/APreflight2/' . $_POST['height'] . 'x' . $_POST['width'] . '/' . $add . '/' . $_POST['pages'] . '/' . $_POST['bleeds'] . '/' . $_POST['beast'] . '/' . $_POST['lang'] . '/123/');
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
         curl_setopt($ch, CURLOPT_POSTFIELDS, $post);
-        curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'GET');
+        curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'POST');
         curl_setopt($ch, CURLOPT_TIMEOUT, 360);
         $headers   = array();
-        /*$headers[] = 'Authorization: Basic ZjdjYzgyYTJiZjk3MWVhOTMwOGNmZmNlY2RjNjU4Y2E6OTUyZTM2NjQ3ZGQ1Nzc5NThkZDgyMGI5ZjJkZDJjZmM=';*/
+        
         $headers[] = 'Authorization: Basic ' . $key;
         $headers[] = 'Content-Type: ' . $mime;
         curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
