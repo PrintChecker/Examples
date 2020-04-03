@@ -11,7 +11,7 @@ As a result of checking, the customer receives an information package and produc
 # Examples
 How to integrate with PreflightApi - check our repository
 
-<a href="http://185.170.227.42/preflightapi2/demo.php">Live Demo</a>
+<a href="http://preflightapi.net/preflightapi2/demo.php">Live Demo</a>
 
 Documentation (Swagger):
-https://www.preflightapi.com/swagger/
+http://preflightapi.net/swagger/
