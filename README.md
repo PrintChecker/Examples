@@ -14,4 +14,4 @@ How to integrate with PreflightApi - check our repository
 <a href="http://preflightapi.net/preflightapi2/demo.php">Live Demo</a>
 
 Documentation (Swagger):
-http://preflightapi.net/swagger/
+http://preflightapi.net/redoc/
