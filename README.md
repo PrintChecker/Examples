@@ -4,14 +4,14 @@ Our solution can be successfully used in free-standing Internet printers, as wel
 
 Our solution allows you to check files in pdf, jpg, png, tiff formats. Work is underway to run the check of psd and cdr files.
 As a result of checking, the customer receives an information package and production files, eg.:
-![Demo result view](https://www.preflightapi.com/demo/photos/view1.png)
+![Demo result view](https://preflightapi.net/img/cta-bg-1-2.png)
 
 
 
 # Examples
 How to integrate with PreflightApi - check our repository
 
-<a href="http://preflightapi.net/preflightapi2/demo.php">Live Demo</a>
+<a href="http://serwer2064953.home.pl/demos/">Live Demo</a>
 
-Documentation (Swagger):
+Documentation (OpenApi):
 http://preflightapi.net/redoc/
