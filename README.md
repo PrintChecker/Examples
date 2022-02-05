@@ -11,7 +11,7 @@ As a result of checking, the customer receives an information package and produc
 # Examples
 How to integrate with PreflightApi - check our repository
 
-<a href="http://serwer2064953.home.pl/demos/">Live Demo</a>
+<a href="http://preflightapi.net/tryit/">Live Demo</a>
 
 Documentation (OpenApi):
 http://preflightapi.net/redoc/
