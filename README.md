@@ -9,7 +9,7 @@ As a result of checking, the customer receives an information package and produc
 
 
 # Examples
-How to integrate with PreflightApi - check our repository
+How to integrate with PrintChecker - check our repository
 
 <a href="http://printchecker.eu/tryit/">Live Demo</a>
 
